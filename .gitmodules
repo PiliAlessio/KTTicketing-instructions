@@ -1,3 +1,6 @@
 [submodule ".github/prometheus-core"]
 	path = .github/prometheus-core
 	url = https://github.com/PiliAlessio/Prometheus.git
+[submodule "prometheus-core"]
+	path = prometheus-core
+	url = https://github.com/PiliAlessio/Prometheus.git
